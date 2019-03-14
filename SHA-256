@@ -9,4 +9,4 @@ hash_string = raw_input()
 
 sha_signature = encrypt_string(hash_string)
 
-print(sha_signature )
+print(sha_signature)
